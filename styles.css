@@ -14,11 +14,9 @@ h1 {
  background-color: #0D9C90;
 }
 
-.port-header {
-  background-image: url("https://cdn.glitch.com/dbd0fd62-48f5-4d4f-8726-a6b584424c30%2F480cb98b-8bf2-4ae7-84ea-dd80f1c9bf49%20(1").jpg?v=1595336223372);
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+.port-header { background-image: url("https://cdn.glitch.com/dbd0fd62-48f5-4d4f-8726-a6b584424c30%2F480cb98b-8bf2-4ae7-84ea-dd80f1c9bf49%20(1").jpg?v=1595336223372);
+  background-repeat: no-repeat; 
+  background-size: cover; }
 
 body {
   font-family: 'Helvetica', sans-serif;
