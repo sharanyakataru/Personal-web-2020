@@ -88,3 +88,8 @@ li a:hover {
   padding-top: 2em;
   padding-bottom: 2em;
 }
+
+h1 {
+  text-shadow: 1px 1px blue;
+}
+
