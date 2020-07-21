@@ -5,6 +5,7 @@ body {
 
 hl{
   color:white;
+  
 }
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
@@ -26,6 +27,7 @@ p {
   color: #040504;
   padding-top: 0em;
   padding-bottom: 0em;
+  
 }
 
 h1 {
