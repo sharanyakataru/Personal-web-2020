@@ -1,13 +1,11 @@
 /*TODO: Add a background color or image to your website*/
 body {
- background-color: #58F40A; 
+ background-color: #F5B90C; 
 }
 
-
-h1 {
-  color: white;
+hl{
+  color:white;
 }
-
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
  
@@ -25,7 +23,7 @@ h1 {
 /*TODO: Add styling rules for the text and images on your website.*/
 p {
   font-size: 1.2em;
-  color: #FFFEFC;
+  color: #040504;
   padding-top: 0em;
   padding-bottom: 0em;
 }
@@ -36,12 +34,17 @@ h1 {
   padding-top: 0em;
   padding-bottom: 0em;
 }
-.port-img {
-  border-radius: 0%;
-  max-height: 0em;
+
+#main-img  {
+  border-radius: 50%;
+  max-height: 250px;
+  margin-bottom: 2em;
+  border: 3px solid white;
 }
-
-
+.port-img {
+  border-radius: 10%;
+  max-height: 20em;
+}
   
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 ul {
