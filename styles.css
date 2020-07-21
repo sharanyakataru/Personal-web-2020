@@ -15,7 +15,7 @@ h1 {
 }
 
 .port-header {
-  background-image: url("https://cdn.glitch.com/dbd0fd62-48f5-4d4f-8726-a6b584424c30%2F5152e004-bc88-4981-855f-9dea76f2f77d.jpg?v=1595269419497");
+  background-image: url("https://cdn.glitch.com/dbd0fd62-48f5-4d4f-8726-a6b584424c30%2F480cb98b-8bf2-4ae7-84ea-dd80f1c9bf49%20(1").jpg?v=1595336223372);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -52,9 +52,9 @@ h1 {
 div {
   width: 100%;
   height: 400px;
-  background-image:"https://cdn.glitch.com/dbd0fd62-48f5-4d4f-8726-a6b584424c30%2F5152e004-bc88-4981-855f-9dea76f2f77d.jpg?v=1595269419497";
+  background-image:"https://cdn.glitch.com/dbd0fd62-48f5-4d4f-8726-a6b584424c30%2F480cb98b-8bf2-4ae7-84ea-dd80f1c9bf49%20(1).jpg?v=1595336223372"
   background-size: 100% 100%;
-  border: 1px solid blue;
+  border: 2px solid blue;
 }
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
