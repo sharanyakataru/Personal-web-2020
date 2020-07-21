@@ -14,14 +14,16 @@ h1 {
  background-color: #0D9C90;
 }
 
+{
+  font-family: 'Lobster', open-sans;
+  /*text-align: center; */
+  color: #003046;
+  
 .port-header { background-image: url("https://cdn.glitch.com/dbd0fd62-48f5-4d4f-8726-a6b584424c30%2F480cb98b-8bf2-4ae7-84ea-dd80f1c9bf49%20(1").jpg?v=1595336223372);
   background-repeat: no-repeat; 
   background-size: cover; }
 
-body {
-  font-family: 'Helvetica', sans-serif;
-  /*text-align: center; */
-  color: #003046;
+
 
 
 
@@ -54,7 +56,7 @@ h1 {
 
 div {
   width: 100%;
-  height: 400px;
+  height: 300px;
   background-image:"https://cdn.glitch.com/dbd0fd62-48f5-4d4f-8726-a6b584424c30%2F480cb98b-8bf2-4ae7-84ea-dd80f1c9bf49%20(1).jpg?v=1595336223372"
   background-size: 100% 100%;
   border: 2px solid blue;
