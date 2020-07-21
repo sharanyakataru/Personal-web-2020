@@ -1,6 +1,6 @@
 /*TODO: Add a background color or image to your website*/
 body {
- background-color: #FFD133; 
+ background-color: #58F40A; 
 }
 
 
@@ -10,22 +10,7 @@ h1 {
 
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
- .header {
- background-color: #0D9C90;
-}
-
-{
-  font-family: 'Lobster', open-sans;
-  /*text-align: center; */
-  color: #003046;
-  
-.port-header { background-image: url("https://cdn.glitch.com/dbd0fd62-48f5-4d4f-8726-a6b584424c30%2F480cb98b-8bf2-4ae7-84ea-dd80f1c9bf49%20(1").jpg?v=1595336223372);
-  background-repeat: no-repeat; 
-  background-size: cover; }
-
-
-
-
+ 
 
 
 
@@ -52,8 +37,8 @@ h1 {
   padding-bottom: 0em;
 }
 .port-img {
-  border-radius: 10%;
-  max-height: 20em;
+  border-radius: 0%;
+  max-height: 0em;
 }
 
 
